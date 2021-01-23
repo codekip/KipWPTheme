@@ -9,4 +9,5 @@ function kiptheme_register_styles()
 }
 
 
+
 add_action('wp_enqueue_scripts', 'kiptheme_register_styles');
